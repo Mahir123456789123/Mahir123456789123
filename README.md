@@ -53,10 +53,8 @@ My work explores how machine learning can be applied to challenging real-world p
 
 ## 📫 Connect With Me
 
-* 💼 [LinkedIn](#)
-* 📚 [Google Scholar](#)
-* 🌐 [Portfolio](#)
-* 📧 [Email](#)
+* 💼 [LinkedIn](www.linkedin.com/in/mahiramitshah)
+* 📧 [Email](mahiramitshah@gmail.com)
 
 ---
 
