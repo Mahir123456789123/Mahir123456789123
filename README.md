@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Mahir Shah - AI/ML Researcher" width="100%">
+</p>
+
 # Hi, I'm Mahir 👋
 
 ### AI/ML Researcher · Multimodal Learning · NLP · Generative AI
